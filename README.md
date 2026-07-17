@@ -24,7 +24,7 @@
 ---
 
 ## 🚀 Getting Started
-
+The dataset is too large to be hosted on GitHub. Researchers interested in obtaining the dataset are welcome to request access via email at wzs13141@gmail.com.
 ```bash
 # Clone the repo
 git clone https://github.com/yourusername/FSRDTA.git
